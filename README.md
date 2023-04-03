@@ -1,5 +1,8 @@
 # Scientific American
 Monthly update Scientific American
+
+### [Apr 2023 已更新](https://github.com/ThomasSu1/Scientific_American/blob/main/2023/Scientific%20American-2023.4.pdf)
+
 ### 加个**星标**呗~
 ### Give me a **Star** if you like~
 
