@@ -1,7 +1,7 @@
 # Scientific American
 Monthly update Scientific American
 
-## [May 2023 已更新/Updated](https://github.com/ThomasSu1/Scientific_American/blob/main/2023/Scientific%20American-2023.5.pdf)
+## [June 2023 已更新/Updated](https://github.com/ThomasSu1/Scientific_American/blob/main/2023/Scientific%20American-2023.6.pdf)
 
 
 
